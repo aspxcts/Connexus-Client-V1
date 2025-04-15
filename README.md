@@ -21,10 +21,10 @@ Connexus Client is a smart, cross-platform automation tool designed to complete 
 ### > Here's a peek at what Connexus Client looks like!
 
 ### 🔑 Product Key Validation GUI
-![Product Key Validation GUI](![image](https://github.com/user-attachments/assets/13f48096-eb68-44d5-9437-c27f550ecff1))
+(![image](https://github.com/user-attachments/assets/13f48096-eb68-44d5-9437-c27f550ecff1))
 
 ### 💻 Assignment Answer GUI
-![Main GUI](![image](https://github.com/user-attachments/assets/9956b56c-0169-4e96-af95-64c164784942))
+(![image](https://github.com/user-attachments/assets/9956b56c-0169-4e96-af95-64c164784942))
 
 ---
 
